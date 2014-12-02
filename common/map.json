@@ -1,0 +1,114 @@
+{
+    "res": {
+        "conf/fis-build.js": {
+            "uri": "/conf/fis-build.js",
+            "type": "js"
+        },
+        "conf/fis-pack.js": {
+            "uri": "/conf/fis-pack.js",
+            "type": "js"
+        },
+        "guide/a.css": {
+            "uri": "/guide/a.css",
+            "type": "css"
+        },
+        "lib/css/b.css": {
+            "uri": "/lib/css/b.css",
+            "type": "css"
+        },
+        "lib/css/g.css": {
+            "uri": "/lib/css/g.css",
+            "type": "css"
+        },
+        "lib/css/m.css": {
+            "uri": "/lib/css/m.css",
+            "type": "css"
+        },
+        "lib/css/r.css": {
+            "uri": "/lib/css/r.css",
+            "type": "css"
+        },
+        "lib/js/base/jquery.js": {
+            "uri": "/lib/js/base/jquery.js",
+            "type": "js"
+        },
+        "lib/js/base/mod.js": {
+            "uri": "/lib/js/base/mod.js",
+            "type": "js"
+        },
+        "lib/js/base/require.js": {
+            "uri": "/lib/js/base/require.js",
+            "type": "js"
+        },
+        "lib/js/base/underscore.js": {
+            "uri": "/lib/js/base/underscore.js",
+            "type": "js"
+        },
+        "lib/js/base/util.js": {
+            "uri": "/lib/js/base/util.js",
+            "type": "js"
+        },
+        "lib/js/base/widget.js": {
+            "uri": "/lib/js/base/widget.js",
+            "type": "js"
+        },
+        "lib/js/ui/datepicker/datepicker.css": {
+            "uri": "/lib/js/ui/datepicker/datepicker.css",
+            "type": "css"
+        },
+        "lib/js/ui/datepicker/datepicker.js": {
+            "uri": "/lib/js/ui/datepicker/datepicker.js",
+            "type": "js",
+            "deps": [
+                "lib/js/ui/datepicker/datepicker.css"
+            ]
+        },
+        "lib/js/ui/dialog/dialog.css": {
+            "uri": "/lib/js/ui/dialog/dialog.css",
+            "type": "css"
+        },
+        "lib/js/ui/dialog/dialog.js": {
+            "uri": "/lib/js/ui/dialog/dialog.js",
+            "type": "js",
+            "deps": [
+                "lib/js/ui/dialog/dialog.css"
+            ]
+        },
+        "lib/js/ui/tooltip/tooltip.css": {
+            "uri": "/lib/js/ui/tooltip/tooltip.css",
+            "type": "css"
+        },
+        "lib/js/ui/tooltip/tooltip.js": {
+            "uri": "/lib/js/ui/tooltip/tooltip.js",
+            "type": "js",
+            "deps": [
+                "lib/js/ui/tooltip/tooltip.css"
+            ]
+        },
+        "lib/js/util/area/areaData.js": {
+            "uri": "/lib/js/util/area/areaData.js",
+            "type": "js"
+        },
+        "lib/js/util/encrypt/encrypt.js": {
+            "uri": "/lib/js/util/encrypt/encrypt.js",
+            "type": "js"
+        },
+        "lib/js/util/numFormat/numFormat.js": {
+            "uri": "/lib/js/util/numFormat/numFormat.js",
+            "type": "js"
+        },
+        "lib/js/util/timeFormat/timeFormat.js": {
+            "uri": "/lib/js/util/timeFormat/timeFormat.js",
+            "type": "js"
+        },
+        "tool/b.js": {
+            "uri": "/tool/b.js",
+            "type": "js"
+        },
+        "widget/a.css": {
+            "uri": "/widget/a.css",
+            "type": "css"
+        }
+    },
+    "pkg": {}
+}

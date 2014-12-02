@@ -1,0 +1,37 @@
+.ui-combobox{
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    z-index: 99;
+}
+.ui-combobox span{
+    background: #fff url("combobox.png") no-repeat right 0;
+    display: block;
+    border: 1px solid #c8c8c8;
+    padding: 0 35px 0 10px;
+    height: 26px;
+    line-height: 26px;
+}
+.ui-combobox ul{
+    background: #fff;
+    position: absolute;
+    top: 28px;
+    left: 0;
+    border: 1px solid #c8c8c8;
+    border-top: none;
+    line-height: 26px;
+    white-space: nowrap;
+    z-index: 99;
+
+    overflow: auto;
+    max-height: 300px;
+}
+.ui-combobox a{
+    display: block;
+    padding: 0 35px 0 10px;
+    text-decoration: none;
+    color: #000;
+}
+.ui-combobox a:hover{
+    background: #e6de98;
+}

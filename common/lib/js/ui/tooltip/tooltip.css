@@ -1,0 +1,55 @@
+/**
+ * tooltip组件样式
+ * @authors dk (judongkun@baidu.com)
+ * @date    2013-09-11 
+ * @version 1.0
+ */
+
+/*默认tootip样式*/
+.ui-tooltip {
+    position: absolute;
+    border: 1px solid #aaa;
+    background: #fff;
+    color: #333;
+}
+.ui-tooltip .bd {
+    padding: 14px;
+}
+
+.ui-tooltip .arrow {
+    position: absolute;
+    overflow: hidden;
+    display: block;
+}
+
+.ui-tooltip .arrow-u {
+    width: 17px;
+    height: 8px;
+    background: url('arrow-up.png?__sprite') no-repeat;
+}
+
+.ui-tooltip .arrow-r {
+    width: 8px;
+    height: 17px;
+    background: url('arrow-right.png?__sprite') no-repeat;
+}
+
+.ui-tooltip .arrow-d {
+    width: 17px;
+    height: 8px;
+    background: url('arrow-down.png?__sprite') no-repeat;
+}
+
+.ui-tooltip .arrow-l {
+    width: 8px;
+    height: 17px;
+    background: url('arrow-left.png?__sprite') no-repeat;
+}
+/*默认tootip样式结束*/
+
+/*不带边框和间距的tootip*/
+.ui-blank-tooltip {
+    position: absolute;
+    background: #fff;
+}
+/*不带边框和间距的tootip结束*/

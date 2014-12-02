@@ -1,0 +1,16 @@
+/**
+ * User: wzj
+ * Date: 14-8-23
+ * Mail: weizhongjian@baidu.com
+ */
+
+#ft{background:#1e1e1e;padding:30px 0 25px;min-width:960px;zoom:1}
+    .footer{width:960px;overflow:hidden;margin:0 auto;color:#666;font-size:12px}
+    .footer .footer-links{float:left;line-height:20px}
+    .footer .footer-links a,
+    .footer .footer-links a:hover{color:#666}
+    .footer .footer-links b{font-weight:normal;padding:0 10px}
+    .footer .f2 span,
+    .footer .f2 a{margin-right:2px}
+    .footer .footer-tel{float:right}
+    .footer .footer-tel .b{font-size:18px}
